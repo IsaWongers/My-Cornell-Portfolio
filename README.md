@@ -6,4 +6,4 @@ The objectives:
   * Perform Hierarchical Clustering and analyze the results
 
 The project labeled 'Implement Neural Networks' is about using neural networks with the keras package for a binary classification problem.
-Overall, it demonstrates practice
+Overall, it demonstrates a models that predicts whether or not an AirBnB host is a superhost based on the data given.
