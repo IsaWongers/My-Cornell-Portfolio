@@ -3,4 +3,4 @@ The project labeled 'Clustering' is about kclusters and how to use the unsupervi
 The project labeled 'Implement Neural Networks' is about using neural networks with the keras package for a binary classification problem.
 Overall, it demonstrates a models that predicts whether or not an AirBnB host is a superhost based on the data given.
 
-Finally, the 'WORLD Happiness FINAL' project uses the World Happiness data to predict happiness based on the life expectancy at birth. This regression model has potential to be used for observing prosperity in different countries. In theory, people are happier if they live longer and more factors are included at the end.
+Finally, the 'WORLD Happiness FINAL' project uses the World Happiness data to predict happiness based on the life expectancy at birth. This regression model has potential to be used for observing prosperity in different countries. In theory, people are happier if they live longer. Longer life shows signs of evolution in medicine, education, and technology because they are used to better livelihood.
